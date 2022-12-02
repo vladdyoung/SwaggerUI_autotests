@@ -1,0 +1,18 @@
+{
+  "id": 345,
+  "category": {
+    "id": 345,
+    "name": "MyNameDem"
+  },
+  "name": "Citty",
+  "photoUrls": [
+    "PhotoCitty"
+  ],
+  "tags": [
+    {
+      "id": 345,
+      "name": "Citty"
+    }
+  ],
+  "status": "available"
+}

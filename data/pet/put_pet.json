@@ -1,0 +1,18 @@
+{
+  "id": 346,
+  "category": {
+    "id": 345,
+    "name": "Tets PUT methods"
+  },
+  "name": "PUT",
+  "photoUrls": [
+    "PUT"
+  ],
+  "tags": [
+    {
+      "id": 345,
+      "name": "PUT"
+    }
+  ],
+  "status": "sold"
+}
