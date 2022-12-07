@@ -15,3 +15,13 @@ PET_DELETE = 'https://petstore.swagger.io/v2/pet'
 STORE_GET_INVENTORY = 'https://petstore.swagger.io/v2/store/inventory'
 STORE_GET_ORDER_ID = 'https://petstore.swagger.io/v2/store/order'
 
+
+USER_POST_CREATE_USER = 'https://petstore.swagger.io/v2/user'
+USER_POST_CREATE_USER_WITH_ARRAY = 'https://petstore.swagger.io/v2/user/createWithArray'
+USER_POST_CREATE_USER_WITH_LIST = 'https://petstore.swagger.io/v2/user/createWithList'
+
+USER_GET_LOGIN = 'https://petstore.swagger.io/v2/user/login'
+USER_GET_LOGOUT = 'https://petstore.swagger.io/v2/user/logout'
+
+USER_PUT = 'https://petstore.swagger.io/v2/user'
+
